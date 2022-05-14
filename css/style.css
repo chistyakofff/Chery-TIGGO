@@ -20,18 +20,18 @@ input:focus {
 @font-face {
 	font-family: 'Xolonium';
 	font-weight: 700;
-	src: url(fonts/Xolonium-Bold.woff2);
+	src: url(/fonts/Xolonium-Bold.woff2);
 }
 @font-face {
 	font-family: 'Xolonium';
 	font-weight: 400;
-	src: url(fonts/Xolonium-Regular.woff2);
+	src: url(/fonts/Xolonium-Regular.woff2);
 }
 
 @font-face {
 	font-family: 'Micra';
 	font-weight: 400;
-	src: url(fonts/Micra.woff2);
+	src: url(/fonts/Micra.woff2);
 }
 
 body {
